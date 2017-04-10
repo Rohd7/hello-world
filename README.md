@@ -1,2 +1,1 @@
-# hello-world
-hello-world to begin the knowledge
+Hi world there is a new way to publish files in the internet thats nice!!
